@@ -50,11 +50,9 @@ Contributions are always welcome!
 If you have any suggestions, improvements, or bug fixes, feel free to submit a pull request. Please ensure that your contributions align with the overall design and goals of the website. 
 
 
-## 🔗 Links
+### Connected with me:
 
-For any questions or inquiries, please feel free to reach out. 
-
-[LinkedIn](www.linkedin.com/in/raushan-imam-8705xa)
+LinkedIn:[www.linkedin.com/in/raushan-imam-8705xa]
 
 
 
